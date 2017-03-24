@@ -1,7 +1,7 @@
 package com.beans;
 
 public class Hospital_Beans {
-			private int reference_id;
+			private int reference_id1;
 			private String name;
 			private int  age;
 			private String gender;
